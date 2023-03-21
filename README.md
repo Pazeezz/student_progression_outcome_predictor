@@ -12,3 +12,4 @@ This program is designed to process and analyze the academic results of a group 
 
 ## Table
 -Progression outcomes as defined by the University regulations. <br>
+![image](https://user-images.githubusercontent.com/108786553/226611332-306ff4aa-8bfe-417b-a08c-f4809afb3a8c.png)
